@@ -1,5 +1,6 @@
 # JKFLIPFLOP-USING-IF-ELSE
-
+### NAME:SENTHIL ARUNACHALAM.P
+### REG NO:24900904
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
@@ -34,15 +35,30 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+step-1 Go to quartus software.
+
+step-2 Set new environment.
+
+step-3 Type the code to implement SR flipflop using verilog and validating their functionality using their functional tables.
+
+step-4 Run the program.
+
+step-5 Give inputs in the waveform table .
+
+step-6 Run the program.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![program](https://github.com/user-attachments/assets/57065e42-3d88-46c1-81b6-6f88432a7d00)
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![gate](https://github.com/user-attachments/assets/7e6c02c4-5b66-4817-92c3-cfa0b37aeae8)
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![Timing diagram](https://github.com/user-attachments/assets/2fd37521-15b5-4c0a-b2f0-fb622f2843b5)
+
 **RESULTS**
+
+Thus,the implement  JK flipflop using verilog and validating their functionality using their functional tables successfully.
